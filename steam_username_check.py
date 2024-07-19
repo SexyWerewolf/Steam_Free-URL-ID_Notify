@@ -1,3 +1,5 @@
+#Edit The Line: 13, 16
+
 #Checks if a SteamID is Available
 #if it is Available You Get a Notification on Your Telegram
 #Put the SteamID's on Input.txt File Like That: https://steamcommunity.com/id/SexyWerewolf
